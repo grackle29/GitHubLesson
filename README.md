@@ -11,11 +11,11 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Torgersen, Biscoe, Dream
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** 344
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** 2007-2009
 
 ## Variables Measured
 
@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | i have no bloody idea |
+| `bill_depth_mm` | why does code break all the time |
+| `flipper_length_mm` | im going to eat a penguin |
+| `body_mass_g` | AHHHHHHHHHHHHHHHHHHHHHHHHH |
 
 ## What the Analysis Does
 
@@ -73,6 +73,5 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-[TODO: Add your name here! This is a great first commit.]
-
+Madeline + Grace (stats powercouple)
 
