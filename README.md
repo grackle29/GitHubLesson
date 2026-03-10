@@ -23,10 +23,10 @@ The dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
-| `bill_length_mm` | [TODO: Include range] |
-| `bill_depth_mm` | [TODO: Include range] |
-| `flipper_length_mm` | [TODO: Include range] |
-| `body_mass_g` | [TODO: Include range] |
+| `bill_length_mm` | beep boop |
+| `bill_depth_mm` | kachow |
+| `flipper_length_mm` |gotta go fast |
+| `body_mass_g` | I am speed |
 
 ## What the Analysis Does
 
